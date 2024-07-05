@@ -1,2 +1,2 @@
-# Phython_Projects
+# Python_Projects
 For Learning Purpose
